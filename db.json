@@ -1,0 +1,60 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Fixed hard drive on workstation 002",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2019-05-31T16:18:04.245Z"
+    },
+    {
+      "message": "dsfdsf",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2021-02-03T16:56:12.042Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "ali",
+      "lastName": "srwsht",
+      "id": 4
+    },
+    {
+      "firstName": "omar",
+      "lastName": "fata7",
+      "id": 5
+    },
+    {
+      "firstName": "omar",
+      "lastName": "fatah",
+      "id": 6
+    },
+    {
+      "firstName": "kolan",
+      "lastName": "kabw",
+      "id": 7
+    },
+    {
+      "firstName": "ker ",
+      "lastName": "pan",
+      "id": 8
+    }
+  ]
+}
